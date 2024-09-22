@@ -50,9 +50,3 @@ By following along with this repository and the course, you will:
 The course culminates in a final project where you will:
 - Design and simulate a robotic arm from scratch using the concepts learned.
 - Combine two robots and simulate their interaction in **Gazebo**.
-  
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/ros2_robotics_simulation.git
