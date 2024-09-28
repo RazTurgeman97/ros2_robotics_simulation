@@ -1,0 +1,41 @@
+[0.090s] Invoking command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description
+[4.914s] -- The C compiler identification is GNU 11.4.0
+[8.431s] -- The CXX compiler identification is GNU 11.4.0
+[9.127s] -- Detecting C compiler ABI info
+[9.827s] -- Detecting C compiler ABI info - done
+[9.834s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.902s] -- Detecting C compile features
+[9.923s] -- Detecting C compile features - done
+[10.025s] -- Detecting CXX compiler ABI info
+[10.403s] -- Detecting CXX compiler ABI info - done
+[10.409s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[10.409s] -- Detecting CXX compile features
+[10.410s] -- Detecting CXX compile features - done
+[10.960s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[11.594s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.684s] -- Configuring done
+[13.687s] -- Generating done
+[13.689s] -- Build files have been written to: /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description
+[13.693s] Invoked command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description
+[13.695s] Invoking command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description -- -j12 -l12
+[13.722s] Invoked command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description -- -j12 -l12
+[13.743s] Invoking command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description
+[13.749s] -- Install configuration: ""
+[13.749s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf
+[13.749s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
+[13.749s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[13.749s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[13.750s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[13.751s] -- Installing: /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[13.753s] Invoked command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_description
