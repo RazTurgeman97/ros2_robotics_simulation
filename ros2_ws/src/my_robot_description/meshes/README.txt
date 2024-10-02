@@ -1,0 +1,2 @@
+An example can be found on turtlebot3 git: https://github.com/ROBOTIS-GIT/turtlebot3/tree/humble-devel/turtlebot3_description/meshe
+this topic is discussed on: https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/learn/lecture/38689122#overview
