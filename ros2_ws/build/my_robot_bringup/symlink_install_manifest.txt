@@ -1,0 +1,17 @@
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rviz
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml

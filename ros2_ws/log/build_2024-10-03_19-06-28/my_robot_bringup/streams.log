@@ -1,0 +1,56 @@
+[0.011s] Invoking command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_bringup': /usr/bin/cmake /home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup
+[0.050s] -- The C compiler identification is GNU 11.4.0
+[0.089s] -- The CXX compiler identification is GNU 11.4.0
+[0.094s] -- Detecting C compiler ABI info
+[0.141s] -- Detecting C compiler ABI info - done
+[0.147s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.147s] -- Detecting C compile features
+[0.147s] -- Detecting C compile features - done
+[0.149s] -- Detecting CXX compiler ABI info
+[0.203s] -- Detecting CXX compiler ABI info - done
+[0.209s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.209s] -- Detecting CXX compile features
+[0.209s] -- Detecting CXX compile features - done
+[0.212s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.500s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.598s] Error parsing '/home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_bringup/package.xml':
+[0.695s] Traceback (most recent call last):
+[0.695s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 610, in parse_package_string
+[0.711s]     root = dom.parseString(data)
+[0.711s]   File "/usr/lib/python3.10/xml/dom/minidom.py", line 2000, in parseString
+[0.736s]     return expatbuilder.parseString(string)
+[0.737s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 925, in parseString
+[0.759s]     return builder.parseString(string)
+[0.759s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 223, in parseString
+[0.759s]     parser.Parse(string, True)
+[0.760s] xml.parsers.expat.ExpatError: mismatched tag: line 23, column 2
+[0.760s] 
+[0.760s] During handling of the above exception, another exception occurred:
+[0.761s] 
+[0.761s] Traceback (most recent call last):
+[0.761s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.761s]     main()
+[0.762s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.762s]     raise e
+[0.762s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.762s]     package = parse_package_string(
+[0.763s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 612, in parse_package_string
+[0.763s]     raise InvalidPackage('The manifest contains invalid XML:\n%s' % ex, filename)
+[0.763s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_bringup/package.xml':
+[0.763s] The manifest contains invalid XML:
+[0.763s] mismatched tag: line 23, column 2
+[0.772s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.772s]   execute_process(/usr/bin/python3
+[0.772s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.772s]   /home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_bringup/package.xml
+[0.772s]   /home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_bringup/ament_cmake_core/package.cmake)
+[0.772s]   returned error code 1
+[0.772s] Call Stack (most recent call first):
+[0.772s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.772s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package.cmake:63 (ament_package_xml)
+[0.772s]   CMakeLists.txt:16 (ament_package)
+[0.773s] 
+[0.773s] [0m
+[0.773s] -- Configuring incomplete, errors occurred!
+[0.773s] See also "/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_bringup/CMakeFiles/CMakeOutput.log".
+[0.775s] Invoked command in '/home/raz/projects/ros2_robotics_simulation/ros2_ws/build/my_robot_bringup' returned '1': /usr/bin/cmake /home/raz/projects/ros2_robotics_simulation/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup
