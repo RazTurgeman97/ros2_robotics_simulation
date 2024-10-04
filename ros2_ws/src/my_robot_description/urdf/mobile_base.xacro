@@ -116,11 +116,10 @@
         <axis xyz="0 1 0" />
     </joint>
 
-    <joint name="base_caster_wheel_joint" type="continuous">
+    <joint name="base_caster_wheel_joint" type="fixed">
         <parent link="base_link" />
         <child link="caster_wheel_link" />
         <origin xyz="${base_length / 3.0} 0 -${sphere_radius}" rpy="0 0 0" />
-        <axis xyz="0 1 0" />
     </joint>
 
     <joint name="base_joint" type="fixed">

@@ -16,6 +16,8 @@
 
     <gazebo reference="caster_wheel_link">
         <material>Gazebo/Grey</material>
+        <mu1 value="0.1" />
+        <mu2 value="0.1" />
     </gazebo>
 
     <gazebo>
@@ -28,7 +30,6 @@
             <!-- wheels -->
             <left_joint>base_left_wheel_joint</left_joint>
             <right_joint>base_right_wheel_joint</right_joint>
-            <caster_joint>base_caster_wheel_joint</caster_joint>
 
             <!-- kinematics -->
             <wheel_separation>0.45</wheel_separation>
