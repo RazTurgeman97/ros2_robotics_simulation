@@ -1,3 +1,4 @@
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/arm_gazebo.launch.xml
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rviz
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//worlds/test_world.world

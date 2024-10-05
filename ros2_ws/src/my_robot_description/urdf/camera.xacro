@@ -28,7 +28,7 @@
         <origin xyz="${(base_length + camera_length) / 2.0} 0 ${base_height / 2.0}" rpy="0 0 0" />
     </joint>
 
-    <!-- #################  START example for OpenCV + rviz + gazebo ***OpevCV has different coordinates system directions*** ################# -->
+    <!--              START example for OpenCV + rviz + gazebo ***OpevCV has different coordinates system directions***              -->
 
     <link name="camera_link_optical">
     </link>
@@ -54,7 +54,7 @@
             ... 
     -->
 
-    <!-- #################  END example for OpenCV + rviz + gazebo ***OpevCV has different coordinates system directions***  ################# -->
+    <!--                END example for OpenCV + rviz + gazebo ***OpevCV has different coordinates system directions***                -->
 
     <gazebo reference="camera_link">
         <material>Gazebo/Red</material>

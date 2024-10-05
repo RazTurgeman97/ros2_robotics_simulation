@@ -1,10 +1,14 @@
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/arm.xacro
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/arm_gazebo.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/standalone_arm.urdf.xacro
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+/home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display_arm.launch.xml
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/my_robot_description//meshes/README.txt
 /home/raz/projects/ros2_robotics_simulation/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
