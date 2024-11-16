@@ -1,6 +1,6 @@
 # ROS2 Robotics Simulation - TF | URDF | RViz | Gazebo
 
-This repository contains all data and materials related to the **ROS2 for Beginners Level 2 - TF | URDF | RViz | Gazebo** course I am currently taking on Udemy.
+This repository contains all data and materials related to the **ROS2 for Beginners Level 2 - TF | URDF | RViz | Gazebo** course I took on Udemy.
 
 ## Course Overview
 
